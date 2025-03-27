@@ -3,5 +3,6 @@
 int main()
 {
 	printf("WAZZAAAAAAAAAA!!!\n");
-	return(0);
+	printf("Hola!! texto de ejemplo...\n");
+    return 0;
 }
