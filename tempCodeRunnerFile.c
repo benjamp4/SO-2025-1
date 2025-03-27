@@ -1,1 +1,0 @@
-execlp("./wazza","",NULL);
