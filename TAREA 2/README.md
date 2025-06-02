@@ -1,1 +1,13 @@
 te amo hortivia
+
+Para el ítem 1, se ejecuta de manera normal desde el compilador.
+
+Para el ítem 2, se ejecuta de esta manera:
+g++ -std=c++11 -pthread -o item2 item2.cpp
+./item2
+Y se selecciona la cantidad k threads a ocupar.
+
+Para el ítem 3, se ejecuta de esta manera:
+// g++ -std=c++11 -pthread -Wno-deprecated-declarations -o item3 item3.cpp
+// ./item3
+Y se selecciona la cantidad de k threads y número L a ocupar.
